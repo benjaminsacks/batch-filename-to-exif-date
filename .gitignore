@@ -1,2 +1,5 @@
 config.py
 __pycache__/
+long_filenames.txt
+sampled_files.txt
+other_errors.txt
